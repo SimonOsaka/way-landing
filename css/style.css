@@ -160,7 +160,7 @@ header[role="header"].header-top hgroup h1{ padding:0; margin:0; position:relati
 
 /*===== Nav ===*/
 
-header[role="header"].header-top hgroup nav{ background-color:transparent; min-height:inherit; border:none; text-align:right; margin-bottom:0; padding-top:18px}
+header[role="header"].header-top hgroup nav{ background-color:transparent; min-height:inherit; border:none; text-align:right; margin-bottom:0; /*padding-top:18px*/}
 
 header[role="header"].header-top hgroup nav ul{ text-align:right; padding:0; margin:0; float:none}
 
